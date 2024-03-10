@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sankalp-gupta1
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning design an algorithm
-- 💞️ I’m looking to collaborate on wipro or google
+- 🌱 I’m currently learning some algorithms
+- 💞️ International Collegiate Programming Contest
 - 📫 How to reach me ...
 - ♦⚡ Fun fact: ... big fan of M.S.DHONI 😄
 - 
