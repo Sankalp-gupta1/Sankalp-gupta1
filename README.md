@@ -1,7 +1,7 @@
 👋 Hi, I'm Sankalp Gupta (@Sankalp-gupta1)
 👀 Passionate about Artificial Intelligence and cutting-edge technologies
 🌱 Currently diving deep into algorithms and their applications
-🎓 Pursuing B.Tech in AI from CSJMU 
+🎓 Pursuing B.Tech in AI  
 💡 Love exploring complex problems, especially through coding and innovation
 🚀 Recently engaged in the International Collegiate Programming Contest (ICPC)
 💬 Always open to collaboration on interesting AI and ML projects
