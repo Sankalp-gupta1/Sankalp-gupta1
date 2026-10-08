@@ -1,8 +1,63 @@
-<p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Sankalp Gupta — AI Engineer, Researcher, Problem Solver" />
-</p>
+<div align="center">
 
-# Sankalp Gupta
+<img src="./assets/profile-hero.svg" width="100%" alt="Sankalp Gupta — AI Engineer, Researcher, Problem Solver" />
+
+<br/>
+
+<a href="https://github.com/Sankalp-gupta1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=67E8F9&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%A2+Researcher+%E2%80%A2+Problem+Solver;Building+intelligent+systems+for+real-world+problems;Agentic+AI+%E2%80%A2+NLP+%E2%80%A2+Backend+Engineering+%E2%80%A2+Automation;Human-AI+Interaction+%E2%80%A2+Sustainable+Computing+%E2%80%A2+Infrastructure" alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI_ENGINEERING-0B1020?style=for-the-badge&logo=openai&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/RESEARCH-111827?style=for-the-badge&logo=academia&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=huggingface&logoColor=FBBF24" />
+<img src="https://img.shields.io/badge/AGENTIC_AI-08111F?style=for-the-badge&logo=probot&logoColor=34D399" />
+<img src="https://img.shields.io/badge/BACKEND_SYSTEMS-101827?style=for-the-badge&logo=fastapi&logoColor=22D3EE" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧭 Quick Navigation
+
+[📊 GitHub Stats](#-github-stats) · [👨‍💻 About](#-about-me) · [🚀 Projects](#-featured-projects) · [📄 Research](#-research-publication) · [🔬 Ongoing Research](#-ongoing-research-making-future-ai-datacenters-more-efficient) · [🧠 Interests](#-areas-of-interest) · [🛠 Tech Stack](#-tech-stack) · [🏆 Achievements](#-achievements) · [📫 Connect](#-connect)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=76&section=header&text=GitHub%20Command%20Center&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sankalp-gupta1&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=67E8F9&text_color=CBD5E1&icon_color=8B5CF6&bg_color=00000000" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Sankalp-gupta1&theme=transparent&hide_border=true&ring=22D3EE&fire=8B5CF6&currStreakLabel=34D399&sideNums=CBD5E1&sideLabels=94A3B8&dates=64748B" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalp-gupta1&bg_color=00000000&color=94A3B8&line=22D3EE&point=8B5CF6&area=true&hide_border=true" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sankalp-gupta1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="96%" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,12&height=76&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
+
+# 👨‍💻 About Me
 
 ### AI Engineer • Researcher • Problem Solver
 
@@ -13,8 +68,14 @@ My work spans across Artificial Intelligence, Natural Language Processing, Backe
 Graduated with a B.Tech in Computer Science (Artificial Intelligence), I am particularly interested in the future of Agentic AI, Human-AI Interaction, Sustainable Computing, and Intelligent Infrastructure.
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="./assets/focus-orbits.svg" width="100%" alt="AI focus areas orbit map" />
 </p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,12,20&height=76&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
 
 # 🚀 Featured Projects
 
@@ -93,9 +154,11 @@ The architecture focuses on reliability, conflict resolution, consistency manage
 * Sync Recovery
 * Distributed Application Design
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,24,20&height=76&section=header&text=Research%20Publication&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
 
 # 📄 Research Publication
 
@@ -111,11 +174,17 @@ This research investigates transformer-based approaches for multilingual emotion
 
 📄 Research Paper: [https://drive.google.com/file/d/1p4vQD16q_ATUYpn9sLcYVkY9HbwCbQtt/view?usp=sharing]
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,12,24&height=76&section=header&text=Ongoing%20Research&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
 
 # 🔬 Ongoing Research: Making Future AI Datacenters More Efficient
+
+<p align="center">
+  <img src="./assets/research-datacenter.svg" width="100%" alt="Animated future AI datacenter research visual" />
+</p>
 
 Whenever we use ChatGPT, Gemini, Tesla AI, or other advanced AI systems, thousands of powerful computers work together behind the scenes to process requests and train new models.
 
@@ -141,11 +210,17 @@ I am currently exploring ideas around smarter cooling methods, renewable energy 
 
 To contribute toward building next-generation AI infrastructure that is both high-performance and environmentally responsible.
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,20,12&height=76&section=header&text=Areas%20of%20Interest&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
 
 # 🧠 Areas of Interest
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Artificial Intelligence
 
@@ -166,6 +241,9 @@ To contribute toward building next-generation AI infrastructure that is both hig
 * Text Understanding
 * Human-AI Communication
 
+</td>
+<td width="50%" valign="top">
+
 ### Software Engineering
 
 * Backend Development
@@ -183,14 +261,28 @@ To contribute toward building next-generation AI infrastructure that is both hig
 * AI for Decision Making
 * Future Computing Systems
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=76&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
 
 # 🛠 Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,fastapi,flask,mysql,sqlite,mongodb,git,github,vscode&theme=dark&perline=8" alt="Tech stack icons" />
+
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Technology stack" />
+  <img src="./assets/tech-stack.svg" width="100%" alt="Technology stack visual" />
 </p>
 
 ### Languages
@@ -217,9 +309,25 @@ MySQL • SQLite • MongoDB
 
 Git • GitHub • VS Code • Postman • Jupyter Notebook
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,12&height=76&section=header&text=Contribution%20Matrix&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sankalp-gupta1/Sankalp-gupta1/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="98%" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,12,20&height=76&section=header&text=Achievements&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
 
 # 🏆 Achievements
 
@@ -229,9 +337,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 * Built AI Systems Integrating Gmail, Calendar, Authentication, and Intelligent Automation
 * Developed Projects Across NLP, Backend Engineering, AI Automation, and Human-AI Interaction
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
+---
 
 # 💡 What Excites Me
 
@@ -245,11 +351,32 @@ I am fascinated by problems that sit at the intersection of:
 
 I enjoy transforming complex ideas into practical systems that people can actually use.
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,24,20&height=76&section=header&text=Connect&fontSize=28&fontColor=fff&fontAlignY=64&animation=fadeIn" width="100%" />
+</div>
 
 # 📫 Connect
+
+<div align="center">
+
+<a href="https://github.com/Sankalp-gupta1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/sankalp-gupta-8617302b0">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://sankalp-gupta1.github.io/New-port-/">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:sankalpgupta0011@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 💻 GitHub: https://github.com/Sankalp-gupta1
 
@@ -262,3 +389,13 @@ I enjoy transforming complex ideas into practical systems that people can actual
 ---
 
 > “The future belongs to systems that can understand context, remember information, collaborate with humans, and solve meaningful problems at scale.”
+
+<p align="center">
+  <img src="./assets/footer-wave.svg" width="100%" alt="Animated profile footer" />
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sankalp-gupta1&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
+
+</div>
