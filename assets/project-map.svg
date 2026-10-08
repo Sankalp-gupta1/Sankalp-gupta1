@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#071219"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#g)"/>
+  <g stroke="#2dd4bf" stroke-opacity=".24" stroke-width="2" fill="none">
+    <path d="M600 165L250 88"/>
+    <path d="M600 165L950 88"/>
+    <path d="M600 165L250 250"/>
+    <path d="M600 165L950 250"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="600" cy="165" r="7"><animate attributeName="r" values="6;11;6" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="425" cy="126" r="3"><animate attributeName="cx" values="425;600" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="775" cy="126" r="3"><animate attributeName="cx" values="775;600" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="425" cy="208" r="3"><animate attributeName="cx" values="425;600" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="775" cy="208" r="3"><animate attributeName="cx" values="775;600" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g filter="url(#s)" font-family="Segoe UI,Inter,Arial,sans-serif">
+    <rect x="458" y="116" width="284" height="98" rx="24" fill="#101827" stroke="url(#a)"/>
+    <text x="600" y="152" text-anchor="middle" fill="#67e8f9" font-size="13" letter-spacing="3">FEATURED PROJECTS</text>
+    <text x="600" y="182" text-anchor="middle" fill="#f8fafc" font-size="20" font-weight="700">INTELLIGENT SYSTEMS</text>
+
+    <rect x="80" y="45" width="340" height="86" rx="18" fill="#0c1422" stroke="#334155"/>
+    <text x="106" y="80" fill="#8b5cf6" font-size="13" font-weight="700">01</text>
+    <text x="106" y="108" fill="#f8fafc" font-size="19" font-weight="700">Life OS AI</text>
+
+    <rect x="780" y="45" width="340" height="86" rx="18" fill="#0c1422" stroke="#334155"/>
+    <text x="806" y="80" fill="#22d3ee" font-size="13" font-weight="700">02</text>
+    <text x="806" y="108" fill="#f8fafc" font-size="19" font-weight="700">Multilingual Emotion Intelligence</text>
+
+    <rect x="80" y="207" width="340" height="86" rx="18" fill="#0c1422" stroke="#334155"/>
+    <text x="106" y="242" fill="#34d399" font-size="13" font-weight="700">03</text>
+    <text x="106" y="270" fill="#f8fafc" font-size="19" font-weight="700">AI Interview Assessment Platform</text>
+
+    <rect x="780" y="207" width="340" height="86" rx="18" fill="#0c1422" stroke="#334155"/>
+    <text x="806" y="242" fill="#fbbf24" font-size="13" font-weight="700">04</text>
+    <text x="806" y="270" fill="#f8fafc" font-size="18" font-weight="700">Offline-First Synchronization Architecture</text>
+  </g>
+</svg>
