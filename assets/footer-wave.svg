@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+<defs>
+  <linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#2563eb"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+</defs>
+<rect width="1200" height="180" rx="24" fill="#050812"/>
+<path d="M0 80C180 30 310 140 520 85C740 28 920 122 1200 62V180H0Z" fill="url(#w)" opacity=".34">
+  <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 80C180 30 310 140 520 85C740 28 920 122 1200 62V180H0Z;M0 65C180 125 330 20 540 90C760 150 930 25 1200 86V180H0Z;M0 80C180 30 310 140 520 85C740 28 920 122 1200 62V180H0Z"/>
+</path>
+<path d="M0 118C210 68 350 160 600 112C840 70 1000 150 1200 105V180H0Z" fill="url(#w)" opacity=".5">
+  <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0 118C210 68 350 160 600 112C840 70 1000 150 1200 105V180H0Z;M0 130C180 155 390 70 610 126C850 175 980 75 1200 120V180H0Z;M0 118C210 68 350 160 600 112C840 70 1000 150 1200 105V180H0Z"/>
+</path>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <text x="600" y="62" fill="#f8fafc" font-size="28" font-weight="800">BUILD · RESEARCH · LEARN · ITERATE</text>
+  <text x="600" y="94" fill="#94a3b8" font-size="13" letter-spacing="3">INTELLIGENT SYSTEMS FOR MEANINGFUL PROBLEMS</text>
+</g>
+</svg>
