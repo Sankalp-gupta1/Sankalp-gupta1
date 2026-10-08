@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/AGENTIC_AI-08111F?style=for-the-badge&logo=probot&logoColor=34D399" />
 <img src="https://img.shields.io/badge/BACKEND_SYSTEMS-101827?style=for-the-badge&logo=fastapi&logoColor=22D3EE" />
 
+<br/><br/>
+
+<img src="./assets/mission-terminal.svg" width="100%" alt="Animated AI mission control terminal" />
+
 </div>
 
 ---
@@ -49,6 +53,15 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sankalp-gupta1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="96%" />
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankalp-gupta1&theme=tokyonight" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sankalp-gupta1&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sankalp-gupta1&theme=tokyonight" width="49%" />
+
 </div>
 
 ---
@@ -68,6 +81,10 @@ My work spans across Artificial Intelligence, Natural Language Processing, Backe
 Graduated with a B.Tech in Computer Science (Artificial Intelligence), I am particularly interested in the future of Agentic AI, Human-AI Interaction, Sustainable Computing, and Intelligent Infrastructure.
 
 <p align="center">
+  <img src="./assets/neural-matrix.svg" width="100%" alt="Animated holographic AI systems matrix" />
+</p>
+
+<p align="center">
   <img src="./assets/focus-orbits.svg" width="100%" alt="AI focus areas orbit map" />
 </p>
 
@@ -80,8 +97,16 @@ Graduated with a B.Tech in Computer Science (Artificial Intelligence), I am part
 # 🚀 Featured Projects
 
 <p align="center">
+  <img src="./assets/project-galaxy.svg" width="100%" alt="Animated flagship project galaxy" />
+</p>
+
+<details>
+<summary><b>🧬 Open project architecture map</b></summary>
+<br/>
+<p align="center">
   <img src="./assets/project-map.svg" width="100%" alt="Featured projects system map" />
 </p>
+</details>
 
 <div align="center">
 
@@ -296,6 +321,14 @@ To contribute toward building next-generation AI infrastructure that is both hig
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,fastapi,flask,mysql,sqlite,mongodb,git,github,vscode&theme=dark&perline=8" alt="Tech stack icons" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-AI%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-Interfaces-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/RAG-Context%20Systems-7C3AED?style=for-the-badge" />
+
 </div>
 
 <br/>
@@ -408,6 +441,12 @@ I enjoy transforming complex ideas into practical systems that people can actual
 ---
 
 > “The future belongs to systems that can understand context, remember information, collaborate with humans, and solve meaningful problems at scale.”
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=34D399&center=true&vCenter=true&width=760&lines=Build+systems+that+reason.;Design+systems+that+remember.;Ship+systems+people+can+actually+use." alt="Closing typing animation" />
+
+</div>
 
 <p align="center">
   <img src="./assets/footer-wave.svg" width="100%" alt="Animated profile footer" />
