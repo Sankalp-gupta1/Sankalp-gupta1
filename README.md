@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Sankalp Gupta — AI Engineer, Researcher, Problem Solver" />
+</p>
+
 # Sankalp Gupta
 
 ### AI Engineer • Researcher • Problem Solver
@@ -8,13 +12,19 @@ My work spans across Artificial Intelligence, Natural Language Processing, Backe
 
 Graduated with a B.Tech in Computer Science (Artificial Intelligence), I am particularly interested in the future of Agentic AI, Human-AI Interaction, Sustainable Computing, and Intelligent Infrastructure.
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 # 🚀 Featured Projects
 
+<p align="center">
+  <img src="./assets/project-map.svg" width="100%" alt="Featured projects system map" />
+</p>
+
 ## Life OS AI
 
-An AI-powered personal operating system designed to act as a digital chief of staff.
+> An AI-powered personal operating system designed to act as a digital chief of staff.
 
 Life OS AI integrates Gmail, Calendar, Tasks, and contextual memory to help users manage commitments, identify priorities, organize schedules, and make better decisions.
 
@@ -29,13 +39,13 @@ Life OS AI integrates Gmail, Calendar, Tasks, and contextual memory to help user
 
 **Tech Stack**
 
-FastAPI • Next.js • Gemini • OAuth 2.0 • Gmail API • Google Calendar API • SQLite
+`FastAPI` • `Next.js` • `Gemini` • `OAuth 2.0` • `Gmail API` • `Google Calendar API` • `SQLite`
 
 ---
 
 ## Multilingual Emotion Intelligence
 
-A transformer-based NLP system focused on understanding emotions across multiple languages.
+> A transformer-based NLP system focused on understanding emotions across multiple languages.
 
 The project explores how AI can better understand human communication, emotional context, and sentiment across linguistic boundaries.
 
@@ -49,13 +59,13 @@ The project explores how AI can better understand human communication, emotional
 
 **Tech Stack**
 
-Python • Transformers • Sentence Embeddings • NLP • Machine Learning
+`Python` • `Transformers` • `Sentence Embeddings` • `NLP` • `Machine Learning`
 
 ---
 
 ## AI Interview Assessment Platform
 
-An intelligent interview analysis system designed to evaluate communication quality, confidence indicators, engagement levels, and emotional signals.
+> An intelligent interview analysis system designed to evaluate communication quality, confidence indicators, engagement levels, and emotional signals.
 
 The platform aims to provide deeper insights into candidate performance beyond traditional assessments.
 
@@ -71,7 +81,7 @@ The platform aims to provide deeper insights into candidate performance beyond t
 
 ## Offline-First Synchronization Architecture
 
-A synchronization framework designed for applications that must continue functioning without internet connectivity.
+> A synchronization framework designed for applications that must continue functioning without internet connectivity.
 
 The architecture focuses on reliability, conflict resolution, consistency management, and seamless recovery when connectivity returns.
 
@@ -83,7 +93,9 @@ The architecture focuses on reliability, conflict resolution, consistency manage
 * Sync Recovery
 * Distributed Application Design
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 # 📄 Research Publication
 
@@ -99,8 +111,9 @@ This research investigates transformer-based approaches for multilingual emotion
 
 📄 Research Paper: [https://drive.google.com/file/d/1p4vQD16q_ATUYpn9sLcYVkY9HbwCbQtt/view?usp=sharing]
 
- 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 # 🔬 Ongoing Research: Making Future AI Datacenters More Efficient
 
@@ -112,7 +125,7 @@ To prevent overheating, datacenters use cooling systems that consume large amoun
 
 This raises an important question:
 
-**Can we build AI infrastructure that is powerful enough to support future AI models while using less water and less energy?**
+> **Can we build AI infrastructure that is powerful enough to support future AI models while using less water and less energy?**
 
 I am currently exploring ideas around smarter cooling methods, renewable energy integration, and resource-efficient infrastructure that could help reduce the environmental impact of large-scale AI systems.
 
@@ -128,7 +141,9 @@ I am currently exploring ideas around smarter cooling methods, renewable energy 
 
 To contribute toward building next-generation AI infrastructure that is both high-performance and environmentally responsible.
 
-
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 # 🧠 Areas of Interest
 
@@ -168,9 +183,15 @@ To contribute toward building next-generation AI infrastructure that is both hig
 * AI for Decision Making
 * Future Computing Systems
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 # 🛠 Tech Stack
+
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Technology stack" />
+</p>
 
 ### Languages
 
@@ -196,7 +217,9 @@ MySQL • SQLite • MongoDB
 
 Git • GitHub • VS Code • Postman • Jupyter Notebook
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 # 🏆 Achievements
 
@@ -206,7 +229,9 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 * Built AI Systems Integrating Gmail, Calendar, Authentication, and Intelligent Automation
 * Developed Projects Across NLP, Backend Engineering, AI Automation, and Human-AI Interaction
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 # 💡 What Excites Me
 
@@ -220,7 +245,9 @@ I am fascinated by problems that sit at the intersection of:
 
 I enjoy transforming complex ideas into practical systems that people can actually use.
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
 
 # 📫 Connect
 
@@ -235,4 +262,3 @@ I enjoy transforming complex ideas into practical systems that people can actual
 ---
 
 > “The future belongs to systems that can understand context, remember information, collaborate with humans, and solve meaningful problems at scale.”
-
