@@ -83,6 +83,25 @@ Graduated with a B.Tech in Computer Science (Artificial Intelligence), I am part
   <img src="./assets/project-map.svg" width="100%" alt="Featured projects system map" />
 </p>
 
+<div align="center">
+
+### ⚡ Repository Radar
+
+<a href="https://github.com/Sankalp-gupta1/AURA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalp-gupta1&repo=AURA&theme=transparent&hide_border=true&title_color=67E8F9&text_color=94A3B8&icon_color=8B5CF6&bg_color=00000000" width="48%" />
+</a>
+<a href="https://github.com/Sankalp-gupta1/Multilingual-emotion-detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalp-gupta1&repo=Multilingual-emotion-detection&theme=transparent&hide_border=true&title_color=67E8F9&text_color=94A3B8&icon_color=34D399&bg_color=00000000" width="48%" />
+</a>
+<a href="https://github.com/Sankalp-gupta1/AI-image-Generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalp-gupta1&repo=AI-image-Generator&theme=transparent&hide_border=true&title_color=67E8F9&text_color=94A3B8&icon_color=22D3EE&bg_color=00000000" width="48%" />
+</a>
+<a href="https://github.com/Sankalp-gupta1/clinical-evidence-twin">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sankalp-gupta1&repo=clinical-evidence-twin&theme=transparent&hide_border=true&title_color=67E8F9&text_color=94A3B8&icon_color=F59E0B&bg_color=00000000" width="48%" />
+</a>
+
+</div>
+
 ## Life OS AI
 
 > An AI-powered personal operating system designed to act as a digital chief of staff.
@@ -319,7 +338,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sankalp-gupta1/Sankalp-gupta1/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="98%" />
+<img src="https://raw.githubusercontent.com/Sankalp-gupta1/Sankalp-gupta1/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="98%" />
 
 </div>
 
