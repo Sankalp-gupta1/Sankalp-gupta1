@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071018"/><stop offset="1" stop-color="#0b0f1f"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg2)"/>
+  <g font-family="Segoe UI,Inter,Arial,sans-serif">
+    <text x="55" y="54" fill="#67e8f9" font-size="13" letter-spacing="3">TECH STACK</text>
+    <rect x="55" y="68" width="1090" height="2" fill="url(#line)" opacity=".7"/>
+
+    <g transform="translate(55 95)">
+      <rect width="330" height="78" rx="16" fill="#0e1726" stroke="#334155"/>
+      <text x="18" y="27" fill="#94a3b8" font-size="11" letter-spacing="2">LANGUAGES</text>
+      <text x="18" y="55" fill="#f8fafc" font-size="16">Python · Java · C++ · JavaScript · SQL</text>
+    </g>
+    <g transform="translate(435 95)">
+      <rect width="330" height="78" rx="16" fill="#0e1726" stroke="#334155"/>
+      <text x="18" y="27" fill="#94a3b8" font-size="11" letter-spacing="2">BACKEND</text>
+      <text x="18" y="55" fill="#f8fafc" font-size="16">FastAPI · Flask · REST APIs · OAuth 2.0</text>
+    </g>
+    <g transform="translate(815 95)">
+      <rect width="330" height="78" rx="16" fill="#0e1726" stroke="#334155"/>
+      <text x="18" y="27" fill="#94a3b8" font-size="11" letter-spacing="2">FRONTEND</text>
+      <text x="18" y="55" fill="#f8fafc" font-size="16">React · Next.js · TypeScript</text>
+    </g>
+
+    <g transform="translate(55 193)">
+      <rect width="330" height="78" rx="16" fill="#0e1726" stroke="#334155"/>
+      <text x="18" y="27" fill="#94a3b8" font-size="11" letter-spacing="2">AI &amp; MACHINE LEARNING</text>
+      <text x="18" y="55" fill="#f8fafc" font-size="15">Transformers · NLP · ML · DL · GenAI · RAG</text>
+    </g>
+    <g transform="translate(435 193)">
+      <rect width="330" height="78" rx="16" fill="#0e1726" stroke="#334155"/>
+      <text x="18" y="27" fill="#94a3b8" font-size="11" letter-spacing="2">DATABASES</text>
+      <text x="18" y="55" fill="#f8fafc" font-size="16">MySQL · SQLite · MongoDB</text>
+    </g>
+    <g transform="translate(815 193)">
+      <rect width="330" height="78" rx="16" fill="#0e1726" stroke="#334155"/>
+      <text x="18" y="27" fill="#94a3b8" font-size="11" letter-spacing="2">TOOLS</text>
+      <text x="18" y="55" fill="#f8fafc" font-size="16">Git · GitHub · VS Code · Postman · Jupyter</text>
+    </g>
+  </g>
+</svg>
