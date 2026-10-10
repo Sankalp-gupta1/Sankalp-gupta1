@@ -127,6 +127,37 @@ Graduated with a B.Tech in Computer Science (Artificial Intelligence), I am part
 
 </div>
 
+## Clinical Evidence Twin
+
+> A human-in-the-loop clinical evidence workspace that helps hospital teams review fragmented records without hiding uncertainty behind an AI-generated answer.
+
+[**View Repository →**](https://github.com/Sankalp-gupta1/clinical-evidence-twin)
+
+The project addresses a practical problem in healthcare information workflows: records from different care teams can describe the same patient event differently, use different units, arrive at different times, or leave important follow-up information missing.
+
+Instead of asking AI to decide what is clinically correct, **Clinical Evidence Twin keeps the original evidence visible and puts the human reviewer in control**.
+
+### What I built
+
+* **Source-linked patient timeline** — separates the date an event happened from the date a note was entered.
+* **Conflict detection** — identifies contradictory statements only when they describe the same structured context.
+* **Missing-information checks** — surfaces expected items that are absent from the supplied record set.
+* **Safe unit normalization** — compares equivalent values such as 62 kg and 62000 g without creating a false conflict.
+* **Human-in-the-loop LangGraph workflow** — validates evidence, builds the timeline, checks conflicts and missing items, then pauses for a reviewer before completion.
+* **Evidence-first Q&A** — deterministic retrieval works without an LLM; optional AI summaries must cite known sources and fall back to original evidence if citation checks fail.
+* **Hospital workspaces** — Better Auth accounts, owner/reviewer/viewer roles, owner-approved access requests, server-side authorization and audit history.
+* **Multi-workspace isolation** — every protected request verifies hospital membership, while stale browser writes are rejected using revision checks and database locking.
+* **Read-only MCP integration** — exposes source search, timelines and review items without allowing tools to alter records or make clinical decisions.
+
+### Engineering Principle
+
+> **When records disagree, the system should make the disagreement easier to inspect — not replace it with a confident-looking answer.**
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `LangGraph` • `LangChain` • `PostgreSQL` • `Better Auth` • `Zod` • `MCP SDK` • `Gemini / Vercel AI Gateway` • `Vercel`
+
+---
 ## Life OS AI
 
 > An AI-powered personal operating system designed to act as a digital chief of staff.
